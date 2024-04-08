@@ -8,5 +8,5 @@ DESTINATION_PASS=<br>
 
 
 [DATABASE]<br>
-SOURCE_DB=esewa_mi_dev<br>
-DESTINATION_KEYSPACE=test_keyspace_2<br>
+SOURCE_DB=<br>
+DESTINATION_KEYSPACE=<br>
