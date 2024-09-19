@@ -2,7 +2,7 @@ from configparser import RawConfigParser
 
 
 config = RawConfigParser()
-config.read('conf.ini')
+config.read('.conf.ini')
 
 def getDbDetails(config_key):
     return config['DATABASE_CONNECTION'][config_key]
